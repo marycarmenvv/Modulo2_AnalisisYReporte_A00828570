@@ -1,6 +1,7 @@
 # Modulo2_AnalisisYReporte_A00828570
 
 # Momento de Retroalimentación: Módulo 2 Análisis y Reporte sobre el desempeño del modelo. (Portafolio Análisis)
+# Nombre del proyecto: Final_Modulo2_AnalisisYReporte_A00828570.ipynb
 
 Concentración: Inteligencia Artificial Avanzada para la ciencia de datos
 
@@ -13,8 +14,6 @@ Separación y evaluación del modelo con un conjunto de prueba y un conjunto de 
 - Diagnóstico y explicación el grado de varianza: bajo medio alto
 - Diagnóstico y explicación el nivel de ajuste del modelo: underfitt fitt overfitt
 - Basándote en lo encontrado en tu análisis utiliza técnicas de regularización o ajuste de parámetros para mejorar el desempeño de tu modelo y documenta en tu reporte cómo mejoró este.
-
-# Nombre del proyecto: Final_Modulo2_AnalisisYReporte_A00828570.ipynb
 
 # Modelo de aprendizaje supervisado implementado: Decision Trees
 
