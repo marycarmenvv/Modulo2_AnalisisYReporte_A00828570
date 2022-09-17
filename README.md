@@ -1,7 +1,10 @@
 # Modulo2_AnalisisYReporte_A00828570
 
 # Momento de Retroalimentación: Módulo 2 Análisis y Reporte sobre el desempeño del modelo. (Portafolio Análisis)
-# Nombre del proyecto: Final_Modulo2_AnalisisYReporte_A00828570.ipynb
+# Nombre de los proyectos a tomar en cuenta del repositorio:
+* Final_Modulo2_AnalisisYReporte_A00828570.ipynb
+* Final_Modulo2_AnalisisYReporte_A00828570.pdf
+* final_Modulo2_AnalisisYReporte_A00828570.py
 
 Concentración: Inteligencia Artificial Avanzada para la ciencia de datos
 
